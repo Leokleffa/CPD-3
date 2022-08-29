@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1661732724 source:c:\users\leona\downloads\lab3-cpd\main.cpp
+	<iostream>
+	<fstream>
+	"include/Registro.h"
+	"include/TabelaHash.h"
+
+1660945654 c:\users\leona\downloads\lab3-cpd\include\registro.h
+	<string>
+	<ostream>
+	<vector>
+
+1661729320 c:\users\leona\downloads\lab3-cpd\include\tabelahash.h
+	<vector>
+	<list>
+	"../include/Registro.h"
+
+1660945654 source:c:\users\leona\downloads\lab3-cpd\src\registro.cpp
+	"../include/Registro.h"
+	<iostream>
+	<sstream>
+
+1661729330 source:c:\users\leona\downloads\lab3-cpd\src\tabelahash.cpp
+	"../include/TabelaHash.h"
+	<iostream>
+
